@@ -9928,3 +9928,18 @@ java.lang.Throwable: null
 [04Sep2025 21:09:32.072] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 139.
 [04Sep2025 21:09:32.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
 [04Sep2025 21:09:32.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[04Sep2025 21:13:44.783] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/tower2 is being run through DFU (hash c8dfad228f0a93a076edd7a83fbdc07cd5877d4fc2fe257a94c654fd890cef06), this will cause launch time delays
+[04Sep2025 21:13:44.881] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/northern_ruins/circle_tall is being run through DFU (hash 88a7a1210eaf5551f7111dfad9b78f468974aa21bd2fcd94af9b887aaae121e9), this will cause launch time delays
+[04Sep2025 21:13:44.981] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:ruin/taiga_surface/tower1 is being run through DFU (hash 5f8cd286c943a127efbef3d3be019af7732e10476b40951686566bd7ceaa9a0d), this will cause launch time delays
+[04Sep2025 21:14:32.050] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 268.
+[04Sep2025 21:14:32.055] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 139.
+[04Sep2025 21:14:32.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[04Sep2025 21:14:32.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[04Sep2025 21:16:05.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pantective lost connection: Disconnected
+[04Sep2025 21:16:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective left the game
+[04Sep2025 21:16:05.202] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 268.
+[04Sep2025 21:16:18.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lavender lost connection: Disconnected
+[04Sep2025 21:16:18.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lavender left the game
+[04Sep2025 21:16:18.800] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 139.
+[04Sep2025 21:19:32.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[04Sep2025 21:19:32.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa

@@ -347,3 +347,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 21:04:09.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Acquire Hardware]
 [04Sep2025 21:05:44.108] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Not Today, Thank You]
 [04Sep2025 21:06:41.349] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Lavender has made the advancement [Not Today, Thank You]
+[04Sep2025 21:16:05.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pantective lost connection: Disconnected
+[04Sep2025 21:16:05.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective left the game
+[04Sep2025 21:16:18.799] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lavender lost connection: Disconnected
+[04Sep2025 21:16:18.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lavender left the game

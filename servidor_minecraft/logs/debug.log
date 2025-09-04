@@ -9890,3 +9890,41 @@ java.lang.Throwable: null
 [04Sep2025 20:58:33.663] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-1, z=-152}) doesn't have enough leaves around top most log
 [04Sep2025 20:58:34.823] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-2, z=-149}) doesn't have enough leaves around top most log
 [04Sep2025 20:58:36.061] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-3, z=-149}) doesn't have enough leaves around top most log
+[04Sep2025 20:58:51.914] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-4, z=-149}) doesn't have enough leaves around top most log
+[04Sep2025 20:59:04.996] [dimthread_server_overworld/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=162, y=-1, z=-154}) doesn't have enough leaves around top most log
+[04Sep2025 20:59:05.871] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-1, z=-153}) doesn't have enough leaves around top most log
+[04Sep2025 20:59:06.911] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-1, z=-154}) doesn't have enough leaves around top most log
+[04Sep2025 20:59:32.049] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 268.
+[04Sep2025 20:59:32.054] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 139.
+[04Sep2025 20:59:32.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[04Sep2025 20:59:32.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[04Sep2025 20:59:35.147] [dimthread_server_overworld/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[04Sep2025 20:59:35.148] [dimthread_server_overworld/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[04Sep2025 21:00:02.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Monster Hunter]
+[04Sep2025 21:00:07.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lavender> diosmio
+[04Sep2025 21:00:15.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lavender> se acosto y todo en la cama
+[04Sep2025 21:00:37.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lavender> ajaaaa
+[04Sep2025 21:01:02.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Getting an Upgrade]
+[04Sep2025 21:02:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [First Mistake]
+[04Sep2025 21:02:43.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lavender has made the advancement [Isn't It Iron Pick]
+[04Sep2025 21:03:02.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lavender has made the advancement [Crops of the Wild]
+[04Sep2025 21:03:40.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Isn't It Iron Pick]
+[04Sep2025 21:04:09.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Acquire Hardware]
+[04Sep2025 21:04:32.052] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 268.
+[04Sep2025 21:04:32.058] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 139.
+[04Sep2025 21:04:32.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[04Sep2025 21:04:32.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[04Sep2025 21:05:44.108] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Not Today, Thank You]
+[04Sep2025 21:06:08.817] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/desert/rock_house1 is being run through DFU (hash c5b6416286c8d10df6dc3ef5cbeb7fb485aa9d51870f3b46337d0ee685b0faee), this will cause launch time delays
+[04Sep2025 21:06:08.992] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/medium2 is being run through DFU (hash 51c5ea36493fed3a51682b9d0aab0c9dbea766cf54f796386d2b10b761568251), this will cause launch time delays
+[04Sep2025 21:06:09.067] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/graveyard1 is being run through DFU (hash 975a3b5cbdc9d0b8d0b0d35fd7a7f329b99cd5642c850d6a4b6040c376dcccf6), this will cause launch time delays
+[04Sep2025 21:06:09.106] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/farm_ruin/main is being run through DFU (hash 2a433cc8a35dbceb71d6d48e240e5debe839da132cb57e62083f63825e0ed678), this will cause launch time delays
+[04Sep2025 21:06:09.167] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:harvest/chapel/church is being run through DFU (hash 9a7a833f4d75bff0034b2f26d7345cb97ad46f7e4b7c0a567c07df3021fac4d0), this will cause launch time delays
+[04Sep2025 21:06:09.198] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/1/top is being run through DFU (hash dd739bcfe6cf10f1f6926ed2fb63553d0301087f07543cebdcbc05c54069fa86), this will cause launch time delays
+[04Sep2025 21:06:09.242] [Worker-Main-1/DEBUG] [ModernFix/]: Structure structory:outcast_villager/boat/1/bottom is being run through DFU (hash 21c31d7b5be5c8a7b4121b0be3ac9ccfb8f5580260c8c7ae7a5331ea5ea71d69), this will cause launch time delays
+[04Sep2025 21:06:25.253] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior216 is being run through DFU (hash def980a590938a160cf7d587e79b8970eedf518c4a8dfdc0d865db9f0dc65ce8), this will cause launch time delays
+[04Sep2025 21:06:41.349] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Lavender has made the advancement [Not Today, Thank You]
+[04Sep2025 21:09:32.049] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 268.
+[04Sep2025 21:09:32.072] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 139.
+[04Sep2025 21:09:32.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[04Sep2025 21:09:32.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa

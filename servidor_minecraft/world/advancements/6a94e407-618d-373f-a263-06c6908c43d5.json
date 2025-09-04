@@ -1,0 +1,248 @@
+{
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-09-04 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_hay_storage": "2025-09-04 20:52:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "adorablehamsterpets:technical/has_received_initial_guidebook": {
+    "criteria": {
+      "received": "2025-09-04 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "prairie": "2025-09-04 20:50:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2025-09-04 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-09-04 20:50:01 +0000",
+      "wild_strawberry": "2025-09-04 20:50:01 +0000",
+      "corn": "2025-09-04 20:50:01 +0000",
+      "onion": "2025-09-04 20:50:01 +0000",
+      "wild_corn": "2025-09-04 20:50:01 +0000",
+      "wild_ribwort": "2025-09-04 20:50:01 +0000",
+      "strawberry": "2025-09-04 20:50:01 +0000",
+      "wild_nettle": "2025-09-04 20:50:01 +0000",
+      "barley": "2025-09-04 20:50:01 +0000",
+      "tomato": "2025-09-04 20:50:01 +0000",
+      "lettuce": "2025-09-04 20:50:01 +0000",
+      "wild_lettuce": "2025-09-04 20:50:01 +0000",
+      "wild_tomatoes": "2025-09-04 20:50:01 +0000",
+      "oat_seeds": "2025-09-04 20:50:01 +0000",
+      "tomato_seeds": "2025-09-04 20:50:01 +0000",
+      "barley_seeds": "2025-09-04 20:50:01 +0000",
+      "strawberry_seeds": "2025-09-04 20:50:01 +0000",
+      "lettuce_seeds": "2025-09-04 20:50:01 +0000",
+      "kernels": "2025-09-04 20:50:01 +0000",
+      "wild_barley": "2025-09-04 20:50:01 +0000",
+      "wild_onion": "2025-09-04 20:50:01 +0000",
+      "wild_oat": "2025-09-04 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2025-09-04 20:50:18 +0000"
+    },
+    "done": true
+  },
+  "adorablehamsterpets:husbandry/root": {
+    "criteria": {
+      "always_unlock": "2025-09-04 20:50:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-09-04 20:50:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-09-04 20:52:48 +0000",
+      "dune_beach": "2025-09-04 20:51:16 +0000",
+      "prairie": "2025-09-04 20:50:02 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_hay_storage": "2025-09-04 20:52:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-09-04 20:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-09-04 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "seeds:substainable": {
+    "criteria": {
+      "substainable": "2025-09-04 20:50:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-09-04 20:53:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-09-04 20:52:49 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

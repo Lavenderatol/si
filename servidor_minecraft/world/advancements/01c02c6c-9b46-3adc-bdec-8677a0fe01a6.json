@@ -2260,6 +2260,60 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-09-04 20:50:16 +0000"
+    },
+    "done": true
+  },
+  "seeds:first_mistake": {
+    "criteria": {
+      "first_mistake": "2025-09-04 20:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-09-04 20:52:22 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2025-09-04 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_rolls": {
+    "criteria": {
+      "has_bat_wing": "2025-09-04 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_soup": {
+    "criteria": {
+      "has_bat_wing": "2025-09-04 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2025-09-04 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2025-09-04 20:55:21 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/bat_cookie": {
+    "criteria": {
+      "has_bat_wing": "2025-09-04 20:55:21 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -2269,18 +2323,6 @@
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-09-04 21:06:41 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
-    "criteria": {
-      "has_gunpowder": "2025-09-04 21:14:17 +0000"
     },
     "done": true
   },
@@ -2350,18 +2392,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-09-04 21:05:35 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -2383,12 +2413,6 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2025-09-04 21:03:02 +0000"
     },
     "done": true
   },
@@ -2416,27 +2440,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-09-04 21:03:23 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-09-04 20:56:45 +0000"
     },
     "done": true
   },
@@ -2455,12 +2461,6 @@
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "seeds:first_mistake": {
-    "criteria": {
-      "first_mistake": "2025-09-04 20:52:22 +0000"
     },
     "done": true
   },
@@ -2530,12 +2530,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-09-04 20:56:45 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -2545,18 +2539,6 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-09-04 20:50:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-04 21:03:23 +0000"
     },
     "done": true
   },
@@ -2572,18 +2554,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
-    "criteria": {
-      "has_bat_wing": "2025-09-04 20:55:21 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -2593,30 +2563,6 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-09-04 21:05:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-09-04 21:07:01 +0000"
     },
     "done": true
   },
@@ -2635,12 +2581,6 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_basin": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-09-04 21:07:01 +0000"
     },
     "done": true
   },
@@ -2668,12 +2608,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-09-04 21:05:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -2695,12 +2629,6 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/redstone_illuminator": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
     },
     "done": true
   },
@@ -2752,21 +2680,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/knife": {
     "criteria": {
       "has_iron": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-09-04 21:14:17 +0000"
     },
     "done": true
   },
@@ -2866,45 +2782,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-09-04 21:02:43 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_bath": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-09-04 20:56:45 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/bat_rolls": {
-    "criteria": {
-      "has_bat_wing": "2025-09-04 20:55:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-09-04 21:02:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/television_remote": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
     },
     "done": true
   },
@@ -2932,12 +2818,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-09-04 20:56:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -2956,12 +2836,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -2971,12 +2845,6 @@
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/globe_sepia": {
-    "criteria": {
-      "has_antique_ink": "2025-09-04 21:10:09 +0000"
     },
     "done": true
   },
@@ -2998,21 +2866,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-09-04 20:52:22 +0000"
-    },
-    "done": true
-  },
   "farm_and_charm:recipes/supply_cart": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/glow_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-09-04 21:03:23 +0000"
     },
     "done": true
   },
@@ -3025,12 +2881,6 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-09-04 20:56:45 +0000"
     },
     "done": true
   },
@@ -3049,18 +2899,6 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_bath": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/bat_soup": {
-    "criteria": {
-      "has_bat_wing": "2025-09-04 20:55:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
     },
     "done": true
   },
@@ -3148,12 +2986,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/crystal_display": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_basin": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -3166,33 +2998,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/altimeter": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce_lever": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
-    "criteria": {
-      "has_bat_wing": "2025-09-04 20:55:21 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/smoked_bat_wing": {
-    "criteria": {
-      "has_bat_wing": "2025-09-04 20:55:21 +0000"
     },
     "done": true
   },
@@ -3208,12 +3016,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-09-04 20:56:19 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -3223,12 +3025,6 @@
   "farm_and_charm:recipes/water_sprinkler": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-09-04 20:58:39 +0000"
     },
     "done": true
   },
@@ -3250,12 +3046,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
@@ -3268,21 +3058,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-09-04 21:02:43 +0000"
-    },
-    "done": true
-  },
   "farm_and_charm:recipes/crafting_bowl": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/bat_cookie": {
-    "criteria": {
-      "has_bat_wing": "2025-09-04 20:55:21 +0000"
     },
     "done": true
   },
@@ -3295,12 +3073,6 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2025-09-04 20:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-09-04 21:14:17 +0000"
     },
     "done": true
   },
@@ -3334,15 +3106,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-09-04 21:07:01 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/cooking_pot": {
     "criteria": {
       "has_iron": "2025-09-04 20:55:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+    "criteria": {
+      "has_iron_ingot": "2025-09-04 20:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-09-04 20:56:19 +0000"
     },
     "done": true
   },
@@ -3352,17 +3184,221 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-09-04 20:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-04 20:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-04 20:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-04 20:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-04 20:56:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-09-04 20:58:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-09-04 20:58:39 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/warped_toilet": {
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
-      "has_iron_ingot": "2025-09-04 20:55:54 +0000"
+      "has_iron_pickaxe": "2025-09-04 21:02:43 +0000"
     },
     "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-04 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-09-04 21:02:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-09-04 21:03:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-09-04 21:03:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 21:03:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-09-04 21:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-04 21:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-04 21:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-09-04 21:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-04 21:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-04 21:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-04 21:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-04 21:07:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-09-04 21:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-04 21:10:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-09-04 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-04 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-04 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-06 18:35:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beer": {
+    "criteria": {
+      "has_hops": "2025-09-06 19:05:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "hops_seed": "2025-09-06 19:05:23 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-09-06 19:05:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/hops_seed": {
+    "criteria": {
+      "has_hops": "2025-09-06 19:05:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "hops_seed": "2025-09-06 19:05:23 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

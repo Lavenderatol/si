@@ -18741,3 +18741,690 @@ java.lang.Throwable: null
 [06Sep2025 19:57:58.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
 [06Sep2025 19:57:58.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
 [06Sep2025 19:59:35.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Local Brewery]
+[06Sep2025 20:02:58.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 1369.
+[06Sep2025 20:02:58.872] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 127.
+[06Sep2025 20:02:58.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[06Sep2025 20:02:58.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[06Sep2025 20:04:21.118] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20310 Tick 173054] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:21.118] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20310 Tick 173054] Finished initializing goals.
+[06Sep2025 20:04:21.118] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20310] Start reading NBT data.
+[06Sep2025 20:04:21.170] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20311 Tick 173055] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:21.170] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20311 Tick 173055] Finished initializing goals.
+[06Sep2025 20:04:21.170] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20311] Start reading NBT data.
+[06Sep2025 20:04:21.220] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20312 Tick 173056] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:21.220] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20312 Tick 173056] Finished initializing goals.
+[06Sep2025 20:04:21.221] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20312] Start reading NBT data.
+[06Sep2025 20:04:21.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20313 Tick 173057] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:21.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20313 Tick 173057] Finished initializing goals.
+[06Sep2025 20:04:21.269] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20313] Start reading NBT data.
+[06Sep2025 20:04:21.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20314 Tick 173058] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:21.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20314 Tick 173058] Finished initializing goals.
+[06Sep2025 20:04:21.318] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20314] Start reading NBT data.
+[06Sep2025 20:04:21.354] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20315 Tick 173058] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:21.354] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20315 Tick 173058] Finished initializing goals.
+[06Sep2025 20:04:21.354] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20315] Start reading NBT data.
+[06Sep2025 20:04:21.918] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20316 Tick 173070] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:21.919] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20316 Tick 173070] Finished initializing goals.
+[06Sep2025 20:04:21.919] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20316] Start reading NBT data.
+[06Sep2025 20:04:21.969] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20317 Tick 173071] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:21.969] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20317 Tick 173071] Finished initializing goals.
+[06Sep2025 20:04:21.969] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20317] Start reading NBT data.
+[06Sep2025 20:04:22.020] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20318 Tick 173072] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.020] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20318 Tick 173072] Finished initializing goals.
+[06Sep2025 20:04:22.020] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20318] Start reading NBT data.
+[06Sep2025 20:04:22.070] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20319 Tick 173073] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.070] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20319 Tick 173073] Finished initializing goals.
+[06Sep2025 20:04:22.070] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20319] Start reading NBT data.
+[06Sep2025 20:04:22.118] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20320 Tick 173074] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.118] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20320 Tick 173074] Finished initializing goals.
+[06Sep2025 20:04:22.119] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20320] Start reading NBT data.
+[06Sep2025 20:04:22.173] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20321 Tick 173075] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.173] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20321 Tick 173075] Finished initializing goals.
+[06Sep2025 20:04:22.173] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20321] Start reading NBT data.
+[06Sep2025 20:04:22.221] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20322 Tick 173076] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.221] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20322 Tick 173076] Finished initializing goals.
+[06Sep2025 20:04:22.221] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20322] Start reading NBT data.
+[06Sep2025 20:04:22.270] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20323 Tick 173077] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.270] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20323 Tick 173077] Finished initializing goals.
+[06Sep2025 20:04:22.270] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20323] Start reading NBT data.
+[06Sep2025 20:04:22.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20324 Tick 173078] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20324 Tick 173078] Finished initializing goals.
+[06Sep2025 20:04:22.318] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20324] Start reading NBT data.
+[06Sep2025 20:04:22.367] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20325 Tick 173079] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20325 Tick 173079] Finished initializing goals.
+[06Sep2025 20:04:22.368] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20325] Start reading NBT data.
+[06Sep2025 20:04:22.419] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20326 Tick 173080] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.419] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20326 Tick 173080] Finished initializing goals.
+[06Sep2025 20:04:22.419] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20326] Start reading NBT data.
+[06Sep2025 20:04:22.470] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20327 Tick 173081] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.470] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20327 Tick 173081] Finished initializing goals.
+[06Sep2025 20:04:22.470] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20327] Start reading NBT data.
+[06Sep2025 20:04:22.520] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20328 Tick 173082] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.520] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20328 Tick 173082] Finished initializing goals.
+[06Sep2025 20:04:22.520] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20328] Start reading NBT data.
+[06Sep2025 20:04:22.573] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20329 Tick 173083] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.573] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20329 Tick 173083] Finished initializing goals.
+[06Sep2025 20:04:22.573] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20329] Start reading NBT data.
+[06Sep2025 20:04:22.620] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20330 Tick 173084] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.620] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20330 Tick 173084] Finished initializing goals.
+[06Sep2025 20:04:22.620] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20330] Start reading NBT data.
+[06Sep2025 20:04:22.669] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20331 Tick 173085] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.670] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20331 Tick 173085] Finished initializing goals.
+[06Sep2025 20:04:22.670] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20331] Start reading NBT data.
+[06Sep2025 20:04:22.718] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20332 Tick 173086] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.718] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20332 Tick 173086] Finished initializing goals.
+[06Sep2025 20:04:22.718] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20332] Start reading NBT data.
+[06Sep2025 20:04:22.769] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20333 Tick 173087] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.770] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20333 Tick 173087] Finished initializing goals.
+[06Sep2025 20:04:22.770] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20333] Start reading NBT data.
+[06Sep2025 20:04:22.818] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20334 Tick 173088] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.819] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20334 Tick 173088] Finished initializing goals.
+[06Sep2025 20:04:22.819] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20334] Start reading NBT data.
+[06Sep2025 20:04:22.869] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20335 Tick 173089] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.869] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20335 Tick 173089] Finished initializing goals.
+[06Sep2025 20:04:22.869] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20335] Start reading NBT data.
+[06Sep2025 20:04:22.920] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20336 Tick 173090] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.920] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20336 Tick 173090] Finished initializing goals.
+[06Sep2025 20:04:22.920] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20336] Start reading NBT data.
+[06Sep2025 20:04:22.968] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20337 Tick 173091] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:22.968] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20337 Tick 173091] Finished initializing goals.
+[06Sep2025 20:04:22.969] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20337] Start reading NBT data.
+[06Sep2025 20:04:23.018] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20338 Tick 173092] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.018] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20338 Tick 173092] Finished initializing goals.
+[06Sep2025 20:04:23.018] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20338] Start reading NBT data.
+[06Sep2025 20:04:23.072] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20339 Tick 173093] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.072] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20339 Tick 173093] Finished initializing goals.
+[06Sep2025 20:04:23.072] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20339] Start reading NBT data.
+[06Sep2025 20:04:23.120] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20340 Tick 173094] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.120] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20340 Tick 173094] Finished initializing goals.
+[06Sep2025 20:04:23.120] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20340] Start reading NBT data.
+[06Sep2025 20:04:23.169] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20341 Tick 173095] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.169] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20341 Tick 173095] Finished initializing goals.
+[06Sep2025 20:04:23.170] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20341] Start reading NBT data.
+[06Sep2025 20:04:23.219] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20342 Tick 173096] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.219] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20342 Tick 173096] Finished initializing goals.
+[06Sep2025 20:04:23.219] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20342] Start reading NBT data.
+[06Sep2025 20:04:23.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20343 Tick 173097] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20343 Tick 173097] Finished initializing goals.
+[06Sep2025 20:04:23.269] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20343] Start reading NBT data.
+[06Sep2025 20:04:23.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20344 Tick 173098] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20344 Tick 173098] Finished initializing goals.
+[06Sep2025 20:04:23.318] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20344] Start reading NBT data.
+[06Sep2025 20:04:23.370] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20350 Tick 173099] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.370] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20350 Tick 173099] Finished initializing goals.
+[06Sep2025 20:04:23.370] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20350] Start reading NBT data.
+[06Sep2025 20:04:23.418] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20351 Tick 173100] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.418] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20351 Tick 173100] Finished initializing goals.
+[06Sep2025 20:04:23.419] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20351] Start reading NBT data.
+[06Sep2025 20:04:23.468] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20352 Tick 173101] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.468] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20352 Tick 173101] Finished initializing goals.
+[06Sep2025 20:04:23.469] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20352] Start reading NBT data.
+[06Sep2025 20:04:23.520] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20353 Tick 173102] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.520] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20353 Tick 173102] Finished initializing goals.
+[06Sep2025 20:04:23.520] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20353] Start reading NBT data.
+[06Sep2025 20:04:23.568] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20354 Tick 173103] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.568] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20354 Tick 173103] Finished initializing goals.
+[06Sep2025 20:04:23.568] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20354] Start reading NBT data.
+[06Sep2025 20:04:23.617] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20355 Tick 173104] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.617] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20355 Tick 173104] Finished initializing goals.
+[06Sep2025 20:04:23.617] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20355] Start reading NBT data.
+[06Sep2025 20:04:23.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20356 Tick 173105] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20356 Tick 173105] Finished initializing goals.
+[06Sep2025 20:04:23.668] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20356] Start reading NBT data.
+[06Sep2025 20:04:23.717] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20357 Tick 173106] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.717] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20357 Tick 173106] Finished initializing goals.
+[06Sep2025 20:04:23.717] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20357] Start reading NBT data.
+[06Sep2025 20:04:23.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20359 Tick 173107] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20359 Tick 173107] Finished initializing goals.
+[06Sep2025 20:04:23.768] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20359] Start reading NBT data.
+[06Sep2025 20:04:23.831] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20360 Tick 173108] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.831] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20360 Tick 173108] Finished initializing goals.
+[06Sep2025 20:04:23.832] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20360] Start reading NBT data.
+[06Sep2025 20:04:23.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20361 Tick 173109] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20361 Tick 173109] Finished initializing goals.
+[06Sep2025 20:04:23.867] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20361] Start reading NBT data.
+[06Sep2025 20:04:23.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20362 Tick 173110] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20362 Tick 173110] Finished initializing goals.
+[06Sep2025 20:04:23.917] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20362] Start reading NBT data.
+[06Sep2025 20:04:23.967] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20363 Tick 173111] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:23.967] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20363 Tick 173111] Finished initializing goals.
+[06Sep2025 20:04:23.967] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20363] Start reading NBT data.
+[06Sep2025 20:04:24.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20364 Tick 173112] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20364 Tick 173112] Finished initializing goals.
+[06Sep2025 20:04:24.017] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20364] Start reading NBT data.
+[06Sep2025 20:04:24.068] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20365 Tick 173113] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.068] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20365 Tick 173113] Finished initializing goals.
+[06Sep2025 20:04:24.068] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20365] Start reading NBT data.
+[06Sep2025 20:04:24.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20366 Tick 173114] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20366 Tick 173114] Finished initializing goals.
+[06Sep2025 20:04:24.117] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20366] Start reading NBT data.
+[06Sep2025 20:04:24.167] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20367 Tick 173115] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.167] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20367 Tick 173115] Finished initializing goals.
+[06Sep2025 20:04:24.167] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20367] Start reading NBT data.
+[06Sep2025 20:04:24.218] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20368 Tick 173116] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.219] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20368 Tick 173116] Finished initializing goals.
+[06Sep2025 20:04:24.219] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20368] Start reading NBT data.
+[06Sep2025 20:04:24.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20369 Tick 173117] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20369 Tick 173117] Finished initializing goals.
+[06Sep2025 20:04:24.269] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20369] Start reading NBT data.
+[06Sep2025 20:04:24.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20370 Tick 173118] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20370 Tick 173118] Finished initializing goals.
+[06Sep2025 20:04:24.318] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20370] Start reading NBT data.
+[06Sep2025 20:04:24.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20371 Tick 173119] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20371 Tick 173119] Finished initializing goals.
+[06Sep2025 20:04:24.368] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20371] Start reading NBT data.
+[06Sep2025 20:04:24.416] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20372 Tick 173120] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.416] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20372 Tick 173120] Finished initializing goals.
+[06Sep2025 20:04:24.417] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20372] Start reading NBT data.
+[06Sep2025 20:04:24.466] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20373 Tick 173121] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.466] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20373 Tick 173121] Finished initializing goals.
+[06Sep2025 20:04:24.466] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20373] Start reading NBT data.
+[06Sep2025 20:04:24.517] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20374 Tick 173122] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.517] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20374 Tick 173122] Finished initializing goals.
+[06Sep2025 20:04:24.517] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20374] Start reading NBT data.
+[06Sep2025 20:04:24.566] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20375 Tick 173123] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.566] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20375 Tick 173123] Finished initializing goals.
+[06Sep2025 20:04:24.566] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20375] Start reading NBT data.
+[06Sep2025 20:04:24.616] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20376 Tick 173124] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.616] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20376 Tick 173124] Finished initializing goals.
+[06Sep2025 20:04:24.616] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20376] Start reading NBT data.
+[06Sep2025 20:04:24.667] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20377 Tick 173125] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.667] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20377 Tick 173125] Finished initializing goals.
+[06Sep2025 20:04:24.667] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20377] Start reading NBT data.
+[06Sep2025 20:04:24.718] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20378 Tick 173126] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.718] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20378 Tick 173126] Finished initializing goals.
+[06Sep2025 20:04:24.718] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20378] Start reading NBT data.
+[06Sep2025 20:04:24.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20379 Tick 173127] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20379 Tick 173127] Finished initializing goals.
+[06Sep2025 20:04:24.768] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20379] Start reading NBT data.
+[06Sep2025 20:04:24.817] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20380 Tick 173128] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.817] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20380 Tick 173128] Finished initializing goals.
+[06Sep2025 20:04:24.817] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20380] Start reading NBT data.
+[06Sep2025 20:04:24.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20381 Tick 173129] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20381 Tick 173129] Finished initializing goals.
+[06Sep2025 20:04:24.867] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20381] Start reading NBT data.
+[06Sep2025 20:04:24.916] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20382 Tick 173130] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.916] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20382 Tick 173130] Finished initializing goals.
+[06Sep2025 20:04:24.916] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20382] Start reading NBT data.
+[06Sep2025 20:04:24.966] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20383 Tick 173131] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:24.966] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20383 Tick 173131] Finished initializing goals.
+[06Sep2025 20:04:24.966] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20383] Start reading NBT data.
+[06Sep2025 20:04:25.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20384 Tick 173132] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20384 Tick 173132] Finished initializing goals.
+[06Sep2025 20:04:25.017] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20384] Start reading NBT data.
+[06Sep2025 20:04:25.066] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20385 Tick 173133] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.066] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20385 Tick 173133] Finished initializing goals.
+[06Sep2025 20:04:25.066] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20385] Start reading NBT data.
+[06Sep2025 20:04:25.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20386 Tick 173134] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20386 Tick 173134] Finished initializing goals.
+[06Sep2025 20:04:25.117] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20386] Start reading NBT data.
+[06Sep2025 20:04:25.166] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20387 Tick 173135] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.166] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20387 Tick 173135] Finished initializing goals.
+[06Sep2025 20:04:25.166] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20387] Start reading NBT data.
+[06Sep2025 20:04:25.218] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20388 Tick 173136] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.218] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20388 Tick 173136] Finished initializing goals.
+[06Sep2025 20:04:25.218] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20388] Start reading NBT data.
+[06Sep2025 20:04:25.267] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20389 Tick 173137] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.267] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20389 Tick 173137] Finished initializing goals.
+[06Sep2025 20:04:25.267] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20389] Start reading NBT data.
+[06Sep2025 20:04:25.317] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20390 Tick 173138] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.317] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20390 Tick 173138] Finished initializing goals.
+[06Sep2025 20:04:25.317] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20390] Start reading NBT data.
+[06Sep2025 20:04:25.367] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20391 Tick 173139] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.367] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20391 Tick 173139] Finished initializing goals.
+[06Sep2025 20:04:25.367] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20391] Start reading NBT data.
+[06Sep2025 20:04:25.417] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20392 Tick 173140] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.417] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20392 Tick 173140] Finished initializing goals.
+[06Sep2025 20:04:25.417] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20392] Start reading NBT data.
+[06Sep2025 20:04:25.467] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20393 Tick 173141] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.467] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20393 Tick 173141] Finished initializing goals.
+[06Sep2025 20:04:25.467] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20393] Start reading NBT data.
+[06Sep2025 20:04:25.517] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20394 Tick 173142] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.517] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20394 Tick 173142] Finished initializing goals.
+[06Sep2025 20:04:25.517] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20394] Start reading NBT data.
+[06Sep2025 20:04:25.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20395 Tick 173143] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20395 Tick 173143] Finished initializing goals.
+[06Sep2025 20:04:25.567] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20395] Start reading NBT data.
+[06Sep2025 20:04:25.619] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20396 Tick 173144] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.619] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20396 Tick 173144] Finished initializing goals.
+[06Sep2025 20:04:25.619] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20396] Start reading NBT data.
+[06Sep2025 20:04:25.669] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20399 Tick 173145] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.669] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20399 Tick 173145] Finished initializing goals.
+[06Sep2025 20:04:25.669] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20399] Start reading NBT data.
+[06Sep2025 20:04:25.716] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20400 Tick 173146] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.716] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20400 Tick 173146] Finished initializing goals.
+[06Sep2025 20:04:25.716] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20400] Start reading NBT data.
+[06Sep2025 20:04:25.767] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20401 Tick 173147] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.767] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20401 Tick 173147] Finished initializing goals.
+[06Sep2025 20:04:25.767] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20401] Start reading NBT data.
+[06Sep2025 20:04:25.817] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20402 Tick 173148] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.817] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20402 Tick 173148] Finished initializing goals.
+[06Sep2025 20:04:25.817] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20402] Start reading NBT data.
+[06Sep2025 20:04:25.866] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20403 Tick 173149] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20403 Tick 173149] Finished initializing goals.
+[06Sep2025 20:04:25.867] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20403] Start reading NBT data.
+[06Sep2025 20:04:25.916] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20404 Tick 173150] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.916] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20404 Tick 173150] Finished initializing goals.
+[06Sep2025 20:04:25.916] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20404] Start reading NBT data.
+[06Sep2025 20:04:25.966] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20405 Tick 173151] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:25.966] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20405 Tick 173151] Finished initializing goals.
+[06Sep2025 20:04:25.966] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20405] Start reading NBT data.
+[06Sep2025 20:04:26.018] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20406 Tick 173152] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.018] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20406 Tick 173152] Finished initializing goals.
+[06Sep2025 20:04:26.018] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20406] Start reading NBT data.
+[06Sep2025 20:04:26.068] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20407 Tick 173153] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.068] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20407 Tick 173153] Finished initializing goals.
+[06Sep2025 20:04:26.068] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20407] Start reading NBT data.
+[06Sep2025 20:04:26.118] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20408 Tick 173154] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.118] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20408 Tick 173154] Finished initializing goals.
+[06Sep2025 20:04:26.118] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20408] Start reading NBT data.
+[06Sep2025 20:04:26.167] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20409 Tick 173155] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.167] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20409 Tick 173155] Finished initializing goals.
+[06Sep2025 20:04:26.167] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20409] Start reading NBT data.
+[06Sep2025 20:04:26.217] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20410 Tick 173156] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.217] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20410 Tick 173156] Finished initializing goals.
+[06Sep2025 20:04:26.217] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20410] Start reading NBT data.
+[06Sep2025 20:04:26.270] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20411 Tick 173157] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.270] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20411 Tick 173157] Finished initializing goals.
+[06Sep2025 20:04:26.270] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20411] Start reading NBT data.
+[06Sep2025 20:04:26.317] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20412 Tick 173158] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.317] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20412 Tick 173158] Finished initializing goals.
+[06Sep2025 20:04:26.317] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20412] Start reading NBT data.
+[06Sep2025 20:04:26.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20413 Tick 173159] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20413 Tick 173159] Finished initializing goals.
+[06Sep2025 20:04:26.368] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20413] Start reading NBT data.
+[06Sep2025 20:04:26.416] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20414 Tick 173160] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.416] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20414 Tick 173160] Finished initializing goals.
+[06Sep2025 20:04:26.416] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20414] Start reading NBT data.
+[06Sep2025 20:04:26.467] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20415 Tick 173161] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.467] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20415 Tick 173161] Finished initializing goals.
+[06Sep2025 20:04:26.467] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20415] Start reading NBT data.
+[06Sep2025 20:04:26.516] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20416 Tick 173162] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.516] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20416 Tick 173162] Finished initializing goals.
+[06Sep2025 20:04:26.517] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20416] Start reading NBT data.
+[06Sep2025 20:04:26.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20417 Tick 173163] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20417 Tick 173163] Finished initializing goals.
+[06Sep2025 20:04:26.567] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20417] Start reading NBT data.
+[06Sep2025 20:04:26.617] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20418 Tick 173164] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.617] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20418 Tick 173164] Finished initializing goals.
+[06Sep2025 20:04:26.617] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20418] Start reading NBT data.
+[06Sep2025 20:04:26.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20419 Tick 173165] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20419 Tick 173165] Finished initializing goals.
+[06Sep2025 20:04:26.668] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20419] Start reading NBT data.
+[06Sep2025 20:04:26.718] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20420 Tick 173166] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.718] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20420 Tick 173166] Finished initializing goals.
+[06Sep2025 20:04:26.718] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20420] Start reading NBT data.
+[06Sep2025 20:04:26.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20421 Tick 173167] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20421 Tick 173167] Finished initializing goals.
+[06Sep2025 20:04:26.768] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20421] Start reading NBT data.
+[06Sep2025 20:04:26.817] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20423 Tick 173168] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.817] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20423 Tick 173168] Finished initializing goals.
+[06Sep2025 20:04:26.817] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20423] Start reading NBT data.
+[06Sep2025 20:04:26.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20424 Tick 173169] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20424 Tick 173169] Finished initializing goals.
+[06Sep2025 20:04:26.867] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20424] Start reading NBT data.
+[06Sep2025 20:04:26.918] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20425 Tick 173170] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.918] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20425 Tick 173170] Finished initializing goals.
+[06Sep2025 20:04:26.918] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20425] Start reading NBT data.
+[06Sep2025 20:04:26.971] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20426 Tick 173171] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:26.971] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20426 Tick 173171] Finished initializing goals.
+[06Sep2025 20:04:26.971] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20426] Start reading NBT data.
+[06Sep2025 20:04:27.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20427 Tick 173172] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20427 Tick 173172] Finished initializing goals.
+[06Sep2025 20:04:27.017] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20427] Start reading NBT data.
+[06Sep2025 20:04:27.070] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20428 Tick 173173] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.070] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20428 Tick 173173] Finished initializing goals.
+[06Sep2025 20:04:27.070] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20428] Start reading NBT data.
+[06Sep2025 20:04:27.119] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20429 Tick 173174] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.119] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20429 Tick 173174] Finished initializing goals.
+[06Sep2025 20:04:27.119] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20429] Start reading NBT data.
+[06Sep2025 20:04:27.169] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20430 Tick 173175] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.169] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20430 Tick 173175] Finished initializing goals.
+[06Sep2025 20:04:27.169] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20430] Start reading NBT data.
+[06Sep2025 20:04:27.219] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20431 Tick 173176] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.219] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20431 Tick 173176] Finished initializing goals.
+[06Sep2025 20:04:27.219] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20431] Start reading NBT data.
+[06Sep2025 20:04:27.267] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20432 Tick 173177] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.268] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20432 Tick 173177] Finished initializing goals.
+[06Sep2025 20:04:27.268] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20432] Start reading NBT data.
+[06Sep2025 20:04:27.317] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20433 Tick 173178] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.317] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20433 Tick 173178] Finished initializing goals.
+[06Sep2025 20:04:27.318] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20433] Start reading NBT data.
+[06Sep2025 20:04:27.369] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20434 Tick 173179] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.369] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20434 Tick 173179] Finished initializing goals.
+[06Sep2025 20:04:27.369] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20434] Start reading NBT data.
+[06Sep2025 20:04:27.417] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20435 Tick 173180] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.417] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20435 Tick 173180] Finished initializing goals.
+[06Sep2025 20:04:27.417] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20435] Start reading NBT data.
+[06Sep2025 20:04:27.469] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20436 Tick 173181] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.470] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20436 Tick 173181] Finished initializing goals.
+[06Sep2025 20:04:27.470] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20436] Start reading NBT data.
+[06Sep2025 20:04:27.518] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20437 Tick 173182] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.518] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20437 Tick 173182] Finished initializing goals.
+[06Sep2025 20:04:27.518] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20437] Start reading NBT data.
+[06Sep2025 20:04:27.572] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20438 Tick 173183] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.572] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20438 Tick 173183] Finished initializing goals.
+[06Sep2025 20:04:27.572] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20438] Start reading NBT data.
+[06Sep2025 20:04:27.617] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20439 Tick 173184] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.617] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20439 Tick 173184] Finished initializing goals.
+[06Sep2025 20:04:27.617] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20439] Start reading NBT data.
+[06Sep2025 20:04:27.667] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20440 Tick 173185] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.667] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20440 Tick 173185] Finished initializing goals.
+[06Sep2025 20:04:27.668] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20440] Start reading NBT data.
+[06Sep2025 20:04:27.718] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20441 Tick 173186] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.718] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20441 Tick 173186] Finished initializing goals.
+[06Sep2025 20:04:27.719] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20441] Start reading NBT data.
+[06Sep2025 20:04:27.771] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20445 Tick 173187] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.771] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20445 Tick 173187] Finished initializing goals.
+[06Sep2025 20:04:27.772] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20445] Start reading NBT data.
+[06Sep2025 20:04:27.818] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20446 Tick 173188] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.818] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20446 Tick 173188] Finished initializing goals.
+[06Sep2025 20:04:27.818] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20446] Start reading NBT data.
+[06Sep2025 20:04:27.868] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20447 Tick 173189] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.868] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20447 Tick 173189] Finished initializing goals.
+[06Sep2025 20:04:27.868] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20447] Start reading NBT data.
+[06Sep2025 20:04:27.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20448 Tick 173190] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20448 Tick 173190] Finished initializing goals.
+[06Sep2025 20:04:27.917] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20448] Start reading NBT data.
+[06Sep2025 20:04:27.967] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20449 Tick 173191] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:27.967] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20449 Tick 173191] Finished initializing goals.
+[06Sep2025 20:04:27.967] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20449] Start reading NBT data.
+[06Sep2025 20:04:28.018] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20450 Tick 173192] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.018] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20450 Tick 173192] Finished initializing goals.
+[06Sep2025 20:04:28.018] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20450] Start reading NBT data.
+[06Sep2025 20:04:28.068] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20451 Tick 173193] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.068] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20451 Tick 173193] Finished initializing goals.
+[06Sep2025 20:04:28.068] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20451] Start reading NBT data.
+[06Sep2025 20:04:28.118] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20452 Tick 173194] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.118] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20452 Tick 173194] Finished initializing goals.
+[06Sep2025 20:04:28.118] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20452] Start reading NBT data.
+[06Sep2025 20:04:28.169] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20453 Tick 173195] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.169] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20453 Tick 173195] Finished initializing goals.
+[06Sep2025 20:04:28.169] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20453] Start reading NBT data.
+[06Sep2025 20:04:28.217] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20454 Tick 173196] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.217] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20454 Tick 173196] Finished initializing goals.
+[06Sep2025 20:04:28.217] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20454] Start reading NBT data.
+[06Sep2025 20:04:28.268] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20455 Tick 173197] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.268] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20455 Tick 173197] Finished initializing goals.
+[06Sep2025 20:04:28.268] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20455] Start reading NBT data.
+[06Sep2025 20:04:28.320] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20456 Tick 173198] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.320] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20456 Tick 173198] Finished initializing goals.
+[06Sep2025 20:04:28.320] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20456] Start reading NBT data.
+[06Sep2025 20:04:28.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20457 Tick 173199] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20457 Tick 173199] Finished initializing goals.
+[06Sep2025 20:04:28.368] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20457] Start reading NBT data.
+[06Sep2025 20:04:28.416] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20458 Tick 173200] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.416] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20458 Tick 173200] Finished initializing goals.
+[06Sep2025 20:04:28.416] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20458] Start reading NBT data.
+[06Sep2025 20:04:28.470] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20459 Tick 173201] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.470] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20459 Tick 173201] Finished initializing goals.
+[06Sep2025 20:04:28.470] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20459] Start reading NBT data.
+[06Sep2025 20:04:28.519] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20460 Tick 173202] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.519] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20460 Tick 173202] Finished initializing goals.
+[06Sep2025 20:04:28.520] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20460] Start reading NBT data.
+[06Sep2025 20:04:28.570] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20461 Tick 173203] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.570] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20461 Tick 173203] Finished initializing goals.
+[06Sep2025 20:04:28.571] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20461] Start reading NBT data.
+[06Sep2025 20:04:28.633] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20462 Tick 173204] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.633] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20462 Tick 173204] Finished initializing goals.
+[06Sep2025 20:04:28.633] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20462] Start reading NBT data.
+[06Sep2025 20:04:28.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20463 Tick 173205] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20463 Tick 173205] Finished initializing goals.
+[06Sep2025 20:04:28.668] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20463] Start reading NBT data.
+[06Sep2025 20:04:28.719] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20464 Tick 173206] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.720] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20464 Tick 173206] Finished initializing goals.
+[06Sep2025 20:04:28.720] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20464] Start reading NBT data.
+[06Sep2025 20:04:28.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20465 Tick 173207] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20465 Tick 173207] Finished initializing goals.
+[06Sep2025 20:04:28.768] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20465] Start reading NBT data.
+[06Sep2025 20:04:28.818] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20466 Tick 173208] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.819] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20466 Tick 173208] Finished initializing goals.
+[06Sep2025 20:04:28.819] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20466] Start reading NBT data.
+[06Sep2025 20:04:28.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20467 Tick 173209] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20467 Tick 173209] Finished initializing goals.
+[06Sep2025 20:04:28.867] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20467] Start reading NBT data.
+[06Sep2025 20:04:28.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20468 Tick 173210] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.918] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20468 Tick 173210] Finished initializing goals.
+[06Sep2025 20:04:28.918] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20468] Start reading NBT data.
+[06Sep2025 20:04:28.970] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20469 Tick 173211] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:28.970] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20469 Tick 173211] Finished initializing goals.
+[06Sep2025 20:04:28.970] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20469] Start reading NBT data.
+[06Sep2025 20:04:29.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20470 Tick 173212] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.018] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20470 Tick 173212] Finished initializing goals.
+[06Sep2025 20:04:29.018] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20470] Start reading NBT data.
+[06Sep2025 20:04:29.068] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20471 Tick 173213] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.068] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20471 Tick 173213] Finished initializing goals.
+[06Sep2025 20:04:29.068] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20471] Start reading NBT data.
+[06Sep2025 20:04:29.116] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20472 Tick 173214] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.116] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20472 Tick 173214] Finished initializing goals.
+[06Sep2025 20:04:29.117] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20472] Start reading NBT data.
+[06Sep2025 20:04:29.168] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20473 Tick 173215] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.168] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20473 Tick 173215] Finished initializing goals.
+[06Sep2025 20:04:29.169] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20473] Start reading NBT data.
+[06Sep2025 20:04:29.217] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20474 Tick 173216] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.217] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20474 Tick 173216] Finished initializing goals.
+[06Sep2025 20:04:29.217] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20474] Start reading NBT data.
+[06Sep2025 20:04:29.267] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20475 Tick 173217] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.267] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20475 Tick 173217] Finished initializing goals.
+[06Sep2025 20:04:29.267] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20475] Start reading NBT data.
+[06Sep2025 20:04:29.325] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20476 Tick 173218] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.325] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20476 Tick 173218] Finished initializing goals.
+[06Sep2025 20:04:29.325] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20476] Start reading NBT data.
+[06Sep2025 20:04:29.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20477 Tick 173219] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.368] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20477 Tick 173219] Finished initializing goals.
+[06Sep2025 20:04:29.368] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20477] Start reading NBT data.
+[06Sep2025 20:04:29.418] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20478 Tick 173220] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.418] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20478 Tick 173220] Finished initializing goals.
+[06Sep2025 20:04:29.418] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20478] Start reading NBT data.
+[06Sep2025 20:04:29.467] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20479 Tick 173221] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.467] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20479 Tick 173221] Finished initializing goals.
+[06Sep2025 20:04:29.467] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20479] Start reading NBT data.
+[06Sep2025 20:04:29.518] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20480 Tick 173222] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.518] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20480 Tick 173222] Finished initializing goals.
+[06Sep2025 20:04:29.518] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20480] Start reading NBT data.
+[06Sep2025 20:04:29.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20481 Tick 173223] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20481 Tick 173223] Finished initializing goals.
+[06Sep2025 20:04:29.567] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20481] Start reading NBT data.
+[06Sep2025 20:04:29.618] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20482 Tick 173224] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.618] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20482 Tick 173224] Finished initializing goals.
+[06Sep2025 20:04:29.618] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20482] Start reading NBT data.
+[06Sep2025 20:04:29.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20483 Tick 173225] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20483 Tick 173225] Finished initializing goals.
+[06Sep2025 20:04:29.668] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20483] Start reading NBT data.
+[06Sep2025 20:04:29.717] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20484 Tick 173226] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.717] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20484 Tick 173226] Finished initializing goals.
+[06Sep2025 20:04:29.717] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20484] Start reading NBT data.
+[06Sep2025 20:04:29.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20485 Tick 173227] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20485 Tick 173227] Finished initializing goals.
+[06Sep2025 20:04:29.768] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20485] Start reading NBT data.
+[06Sep2025 20:04:29.819] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20486 Tick 173228] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.819] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20486 Tick 173228] Finished initializing goals.
+[06Sep2025 20:04:29.819] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20486] Start reading NBT data.
+[06Sep2025 20:04:29.868] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20487 Tick 173229] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.868] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20487 Tick 173229] Finished initializing goals.
+[06Sep2025 20:04:29.868] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20487] Start reading NBT data.
+[06Sep2025 20:04:29.918] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20488 Tick 173230] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.918] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20488 Tick 173230] Finished initializing goals.
+[06Sep2025 20:04:29.918] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20488] Start reading NBT data.
+[06Sep2025 20:04:29.967] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20489 Tick 173231] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:29.968] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20489 Tick 173231] Finished initializing goals.
+[06Sep2025 20:04:29.968] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20489] Start reading NBT data.
+[06Sep2025 20:04:30.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20490 Tick 173232] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20490 Tick 173232] Finished initializing goals.
+[06Sep2025 20:04:30.018] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20490] Start reading NBT data.
+[06Sep2025 20:04:30.067] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20491 Tick 173233] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.067] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20491 Tick 173233] Finished initializing goals.
+[06Sep2025 20:04:30.067] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20491] Start reading NBT data.
+[06Sep2025 20:04:30.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20492 Tick 173234] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20492 Tick 173234] Finished initializing goals.
+[06Sep2025 20:04:30.117] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20492] Start reading NBT data.
+[06Sep2025 20:04:30.166] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20493 Tick 173235] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.166] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20493 Tick 173235] Finished initializing goals.
+[06Sep2025 20:04:30.166] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20493] Start reading NBT data.
+[06Sep2025 20:04:30.218] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20494 Tick 173236] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.218] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20494 Tick 173236] Finished initializing goals.
+[06Sep2025 20:04:30.218] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20494] Start reading NBT data.
+[06Sep2025 20:04:30.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20495 Tick 173237] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.270] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20495 Tick 173237] Finished initializing goals.
+[06Sep2025 20:04:30.270] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20495] Start reading NBT data.
+[06Sep2025 20:04:30.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20496 Tick 173238] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20496 Tick 173238] Finished initializing goals.
+[06Sep2025 20:04:30.318] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20496] Start reading NBT data.
+[06Sep2025 20:04:30.370] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20497 Tick 173239] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.370] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20497 Tick 173239] Finished initializing goals.
+[06Sep2025 20:04:30.370] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20497] Start reading NBT data.
+[06Sep2025 20:04:30.418] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20498 Tick 173240] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.418] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20498 Tick 173240] Finished initializing goals.
+[06Sep2025 20:04:30.418] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20498] Start reading NBT data.
+[06Sep2025 20:04:30.468] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20499 Tick 173241] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.468] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20499 Tick 173241] Finished initializing goals.
+[06Sep2025 20:04:30.468] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20499] Start reading NBT data.
+[06Sep2025 20:04:30.517] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20500 Tick 173242] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.517] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20500 Tick 173242] Finished initializing goals.
+[06Sep2025 20:04:30.517] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20500] Start reading NBT data.
+[06Sep2025 20:04:30.569] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20501 Tick 173243] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.569] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20501 Tick 173243] Finished initializing goals.
+[06Sep2025 20:04:30.569] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20501] Start reading NBT data.
+[06Sep2025 20:04:30.617] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20502 Tick 173244] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.617] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20502 Tick 173244] Finished initializing goals.
+[06Sep2025 20:04:30.617] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20502] Start reading NBT data.
+[06Sep2025 20:04:30.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20503 Tick 173245] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.668] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20503 Tick 173245] Finished initializing goals.
+[06Sep2025 20:04:30.668] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20503] Start reading NBT data.
+[06Sep2025 20:04:30.717] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20504 Tick 173246] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.717] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20504 Tick 173246] Finished initializing goals.
+[06Sep2025 20:04:30.717] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20504] Start reading NBT data.
+[06Sep2025 20:04:30.767] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20505 Tick 173247] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.767] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20505 Tick 173247] Finished initializing goals.
+[06Sep2025 20:04:30.767] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20505] Start reading NBT data.
+[06Sep2025 20:04:30.830] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20506 Tick 173248] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.830] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20506 Tick 173248] Finished initializing goals.
+[06Sep2025 20:04:30.830] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20506] Start reading NBT data.
+[06Sep2025 20:04:30.868] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20507 Tick 173249] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.868] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20507 Tick 173249] Finished initializing goals.
+[06Sep2025 20:04:30.868] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20507] Start reading NBT data.
+[06Sep2025 20:04:30.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20508 Tick 173250] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20508 Tick 173250] Finished initializing goals.
+[06Sep2025 20:04:30.918] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20508] Start reading NBT data.
+[06Sep2025 20:04:30.966] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20509 Tick 173251] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:30.966] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20509 Tick 173251] Finished initializing goals.
+[06Sep2025 20:04:30.967] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20509] Start reading NBT data.
+[06Sep2025 20:04:31.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20510 Tick 173252] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.017] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20510 Tick 173252] Finished initializing goals.
+[06Sep2025 20:04:31.017] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20510] Start reading NBT data.
+[06Sep2025 20:04:31.066] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20511 Tick 173253] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.067] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20511 Tick 173253] Finished initializing goals.
+[06Sep2025 20:04:31.067] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20511] Start reading NBT data.
+[06Sep2025 20:04:31.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20512 Tick 173254] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20512 Tick 173254] Finished initializing goals.
+[06Sep2025 20:04:31.117] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20512] Start reading NBT data.
+[06Sep2025 20:04:31.168] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20513 Tick 173255] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.168] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20513 Tick 173255] Finished initializing goals.
+[06Sep2025 20:04:31.168] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20513] Start reading NBT data.
+[06Sep2025 20:04:31.223] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20514 Tick 173256] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.223] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20514 Tick 173256] Finished initializing goals.
+[06Sep2025 20:04:31.223] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20514] Start reading NBT data.
+[06Sep2025 20:04:31.271] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20515 Tick 173257] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.271] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20515 Tick 173257] Finished initializing goals.
+[06Sep2025 20:04:31.271] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20515] Start reading NBT data.
+[06Sep2025 20:04:31.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20516 Tick 173258] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.318] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20516 Tick 173258] Finished initializing goals.
+[06Sep2025 20:04:31.318] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20516] Start reading NBT data.
+[06Sep2025 20:04:31.370] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20517 Tick 173259] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.370] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20517 Tick 173259] Finished initializing goals.
+[06Sep2025 20:04:31.370] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20517] Start reading NBT data.
+[06Sep2025 20:04:31.416] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20518 Tick 173260] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.416] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20518 Tick 173260] Finished initializing goals.
+[06Sep2025 20:04:31.417] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20518] Start reading NBT data.
+[06Sep2025 20:04:31.468] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20519 Tick 173261] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.468] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20519 Tick 173261] Finished initializing goals.
+[06Sep2025 20:04:31.468] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20519] Start reading NBT data.
+[06Sep2025 20:04:31.518] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20520 Tick 173262] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.518] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20520 Tick 173262] Finished initializing goals.
+[06Sep2025 20:04:31.518] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20520] Start reading NBT data.
+[06Sep2025 20:04:31.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20521 Tick 173263] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20521 Tick 173263] Finished initializing goals.
+[06Sep2025 20:04:31.567] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20521] Start reading NBT data.
+[06Sep2025 20:04:31.616] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20522 Tick 173264] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.616] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20522 Tick 173264] Finished initializing goals.
+[06Sep2025 20:04:31.617] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20522] Start reading NBT data.
+[06Sep2025 20:04:31.666] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20523 Tick 173265] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.666] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20523 Tick 173265] Finished initializing goals.
+[06Sep2025 20:04:31.667] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20523] Start reading NBT data.
+[06Sep2025 20:04:31.717] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20524 Tick 173266] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.717] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20524 Tick 173266] Finished initializing goals.
+[06Sep2025 20:04:31.717] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20524] Start reading NBT data.
+[06Sep2025 20:04:31.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20525 Tick 173267] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.768] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20525 Tick 173267] Finished initializing goals.
+[06Sep2025 20:04:31.768] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20525] Start reading NBT data.
+[06Sep2025 20:04:31.817] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20526 Tick 173268] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.817] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20526 Tick 173268] Finished initializing goals.
+[06Sep2025 20:04:31.817] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20526] Start reading NBT data.
+[06Sep2025 20:04:31.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20527 Tick 173269] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.867] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20527 Tick 173269] Finished initializing goals.
+[06Sep2025 20:04:31.867] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20527] Start reading NBT data.
+[06Sep2025 20:04:31.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20528 Tick 173270] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.917] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20528 Tick 173270] Finished initializing goals.
+[06Sep2025 20:04:31.917] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20528] Start reading NBT data.
+[06Sep2025 20:04:31.967] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20529 Tick 173271] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:31.967] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20529 Tick 173271] Finished initializing goals.
+[06Sep2025 20:04:31.967] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20529] Start reading NBT data.
+[06Sep2025 20:04:32.020] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20530 Tick 173272] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.020] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20530 Tick 173272] Finished initializing goals.
+[06Sep2025 20:04:32.020] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20530] Start reading NBT data.
+[06Sep2025 20:04:32.067] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20531 Tick 173273] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.067] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20531 Tick 173273] Finished initializing goals.
+[06Sep2025 20:04:32.067] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20531] Start reading NBT data.
+[06Sep2025 20:04:32.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20532 Tick 173274] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.117] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20532 Tick 173274] Finished initializing goals.
+[06Sep2025 20:04:32.117] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20532] Start reading NBT data.
+[06Sep2025 20:04:32.167] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20533 Tick 173275] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.167] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20533 Tick 173275] Finished initializing goals.
+[06Sep2025 20:04:32.167] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20533] Start reading NBT data.
+[06Sep2025 20:04:32.218] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20534 Tick 173276] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.218] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20534 Tick 173276] Finished initializing goals.
+[06Sep2025 20:04:32.218] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20534] Start reading NBT data.
+[06Sep2025 20:04:32.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20536 Tick 173277] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.269] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20536 Tick 173277] Finished initializing goals.
+[06Sep2025 20:04:32.269] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20536] Start reading NBT data.
+[06Sep2025 20:04:32.317] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20537 Tick 173278] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.317] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20537 Tick 173278] Finished initializing goals.
+[06Sep2025 20:04:32.317] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20537] Start reading NBT data.
+[06Sep2025 20:04:32.367] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20538 Tick 173279] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.367] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20538 Tick 173279] Finished initializing goals.
+[06Sep2025 20:04:32.367] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20538] Start reading NBT data.
+[06Sep2025 20:04:32.426] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20539 Tick 173280] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.426] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20539 Tick 173280] Finished initializing goals.
+[06Sep2025 20:04:32.426] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20539] Start reading NBT data.
+[06Sep2025 20:04:32.480] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20540 Tick 173281] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.480] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20540 Tick 173281] Finished initializing goals.
+[06Sep2025 20:04:32.480] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20540] Start reading NBT data.
+[06Sep2025 20:04:32.528] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20541 Tick 173282] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.528] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20541 Tick 173282] Finished initializing goals.
+[06Sep2025 20:04:32.528] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20541] Start reading NBT data.
+[06Sep2025 20:04:32.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20542 Tick 173283] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.567] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20542 Tick 173283] Finished initializing goals.
+[06Sep2025 20:04:32.567] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20542] Start reading NBT data.
+[06Sep2025 20:04:32.603] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20543 Tick 173283] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 20:04:32.603] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 20543 Tick 173283] Finished initializing goals.
+[06Sep2025 20:04:32.603] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 20543] Start reading NBT data.
+[06Sep2025 20:05:08.763] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=165, y=-1, z=-159}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:09.954] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=164, y=-1, z=-159}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:10.759] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=163, y=-1, z=-159}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:11.559] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=162, y=-1, z=-159}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:12.360] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-1, z=-159}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:14.107] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-2, z=-159}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:15.006] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-3, z=-159}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:16.307] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-4, z=-159}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:17.959] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-1, z=-158}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:18.757] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-1, z=-157}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:19.658] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-1, z=-156}) doesn't have enough leaves around top most log
+[06Sep2025 20:05:20.458] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=161, y=-1, z=-155}) doesn't have enough leaves around top most log
+[06Sep2025 20:07:58.866] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 1369.
+[06Sep2025 20:07:58.871] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 127.
+[06Sep2025 20:07:58.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[06Sep2025 20:07:58.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[06Sep2025 20:12:58.868] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 1369.
+[06Sep2025 20:12:58.873] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 127.
+[06Sep2025 20:12:58.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[06Sep2025 20:12:58.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa

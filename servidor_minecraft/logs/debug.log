@@ -19428,3 +19428,31 @@ java.lang.Throwable: null
 [06Sep2025 20:12:58.873] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 127.
 [06Sep2025 20:12:58.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
 [06Sep2025 20:12:58.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[06Sep2025 20:13:37.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pantective lost connection: Disconnected
+[06Sep2025 20:13:37.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective left the game
+[06Sep2025 20:13:37.471] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 1369.
+[06Sep2025 20:13:47.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lavender lost connection: Disconnected
+[06Sep2025 20:13:47.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lavender left the game
+[06Sep2025 20:13:47.466] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 127.
+[06Sep2025 20:13:54.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Sep2025 20:13:54.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: STOP<--[HERE]
+[06Sep2025 20:13:59.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Sep2025 20:13:59.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Sep2025 20:13:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Sep2025 20:13:59.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Sep2025 20:13:59.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mi hermosa]'/minecraft:overworld
+[06Sep2025 20:14:00.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mi hermosa]'/minecraft:the_end
+[06Sep2025 20:14:00.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mi hermosa]'/minecraft:the_nether
+[06Sep2025 20:14:00.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[06Sep2025 20:14:00.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[06Sep2025 20:14:00.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Sep2025 20:14:00.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Sep2025 20:14:00.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Sep2025 20:14:00.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Sep2025 20:14:00.112] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Sep2025 20:14:00.113] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/si/servidor_minecraft/config/refurbished_furniture.server.toml
+[06Sep2025 20:14:00.113] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[06Sep2025 20:14:00.114] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[06Sep2025 20:14:00.114] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[06Sep2025 20:14:00.115] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[06Sep2025 20:14:00.115] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

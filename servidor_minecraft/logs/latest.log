@@ -335,3 +335,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Sep2025 19:47:37.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lavender has reached the goal [When the Stew is Sus]
 [06Sep2025 19:47:56.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Crops of the Wild]
 [06Sep2025 19:48:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has reached the goal [When the Stew is Sus]
+[06Sep2025 19:57:17.167] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Mine? Mine? Mine?]
+[06Sep2025 19:59:35.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Local Brewery]

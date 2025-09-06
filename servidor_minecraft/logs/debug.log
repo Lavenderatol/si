@@ -12257,3 +12257,25 @@ java.lang.Throwable: null
 [06Sep2025 19:08:25.039] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 3520 Tick 105932] Finished initializing goals.
 [06Sep2025 19:08:25.040] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 3520] Start reading NBT data.
 [06Sep2025 19:09:07.669] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Pantective was shot by Skeleton
+[06Sep2025 19:12:58.866] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 127.
+[06Sep2025 19:12:58.875] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 1369.
+[06Sep2025 19:12:58.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[06Sep2025 19:12:58.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa
+[06Sep2025 19:13:28.964] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Pantective was slain by Zombie
+[06Sep2025 19:13:30.255] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 4959 Tick 112036] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 19:13:30.255] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 4959 Tick 112036] Finished initializing goals.
+[06Sep2025 19:13:30.255] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 4959] Start reading NBT data.
+[06Sep2025 19:13:30.258] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 4962 Tick 112036] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 19:13:30.258] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 4962 Tick 112036] Finished initializing goals.
+[06Sep2025 19:13:30.258] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 4962] Start reading NBT data.
+[06Sep2025 19:13:53.567] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Lavender was slain by Zombie
+[06Sep2025 19:13:55.026] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 5244 Tick 112532] Initializing goals. Current State: isSleeping=false, isSittingPose=false
+[06Sep2025 19:13:55.027] [Server thread/DEBUG] [adorablehamsterpets/]: [AI Init 5244 Tick 112532] Finished initializing goals.
+[06Sep2025 19:13:55.027] [Server thread/DEBUG] [adorablehamsterpets/]: [NBT Read 5244] Start reading NBT data.
+[06Sep2025 19:17:29.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of supplementaries:way_sign
+[06Sep2025 19:17:36.171] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior1 is being run through DFU (hash 177372923eb6a9e054ad90ce38060773071dda764cda7ec65d128eaf3642ed6f), this will cause launch time delays
+[06Sep2025 19:17:37.278] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[06Sep2025 19:17:58.865] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 1369.
+[06Sep2025 19:17:58.870] [Server thread/DEBUG] [adorablehamsterpets/]: [AHP Mixin] PlayerEntityMixin writeNbt is RUNNING for entity 127.
+[06Sep2025 19:17:58.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mi hermosa
+[06Sep2025 19:17:58.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mi hermosa

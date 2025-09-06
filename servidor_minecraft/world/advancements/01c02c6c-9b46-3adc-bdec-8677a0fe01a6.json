@@ -1980,7 +1980,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-08-25 01:21:54 +0000",
-      "minecraft:lukewarm_ocean": "2025-08-25 01:29:31 +0000"
+      "minecraft:lukewarm_ocean": "2025-08-25 01:29:31 +0000",
+      "minecraft:ocean": "2025-09-06 19:12:24 +0000"
     },
     "done": false
   },
@@ -3370,6 +3371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-06 19:16:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/beer": {
     "criteria": {
       "has_hops": "2025-09-06 19:05:23 +0000"
@@ -3388,6 +3395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-06 19:16:36 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/hops_seed": {
     "criteria": {
       "has_hops": "2025-09-06 19:05:23 +0000"
@@ -3399,6 +3412,12 @@
       "hops_seed": "2025-09-06 19:05:23 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-06 19:16:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

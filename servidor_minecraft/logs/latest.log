@@ -328,3 +328,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Sep2025 19:05:23.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lavender has made the advancement [An Extra Seedy Place]
 [06Sep2025 19:06:59.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective drowned
 [06Sep2025 19:09:07.669] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Pantective was shot by Skeleton
+[06Sep2025 19:13:28.964] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Pantective was slain by Zombie
+[06Sep2025 19:13:53.567] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Lavender was slain by Zombie

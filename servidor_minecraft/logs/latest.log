@@ -331,3 +331,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Sep2025 19:13:28.964] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Pantective was slain by Zombie
 [06Sep2025 19:13:53.567] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: Lavender was slain by Zombie
 [06Sep2025 19:22:51.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Diamonds!]
+[06Sep2025 19:47:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Voluntary Exile]
+[06Sep2025 19:47:37.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lavender has reached the goal [When the Stew is Sus]
+[06Sep2025 19:47:56.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has made the advancement [Crops of the Wild]
+[06Sep2025 19:48:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has reached the goal [When the Stew is Sus]
